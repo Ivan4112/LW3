@@ -1,0 +1,2 @@
+@echo off
+start /B "Word" "E:Lw3_Report.docx"
